@@ -5,3 +5,5 @@ const handleClient = (req, res) => {
         software: req.headers['user-agent']
     });
 };
+
+export default handleClient;
