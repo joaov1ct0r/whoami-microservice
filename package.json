@@ -1,7 +1,7 @@
 {
   "name": "whoami-microservice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistema de Micro serviço para envio de informações pessoais sobre o client, feito em NodeJS utilizando express",
   "main": "index.js",
   "type": "module",
   "scripts": {
